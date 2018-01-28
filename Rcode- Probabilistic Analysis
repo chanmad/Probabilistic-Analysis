@@ -1,4 +1,5 @@
-#read and attach GPA file
+#read and attach GPA file- Data available at https://www.rdocumentation.org/packages/Stat2Data/versions/1.6/topics/FirstYearGPA
+
 attach(gpa)
 
 
